@@ -1,7 +1,7 @@
 # UI Automation Tests 
 ## Scope https://qa-practice.netlify.app/bugs-form
 
-User Registration
+User Registration Related Test Cases
 
 ## Test Cases
 
